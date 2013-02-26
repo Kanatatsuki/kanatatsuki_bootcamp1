@@ -5,7 +5,7 @@ The Web set up on Phpfog used a php web template.
 
 The Steps Memo:
 
-(1) infall Ruby for mac( including Xcode CML, homebrew, libksba and RVM )
+(1) install Ruby for mac( including Xcode CML, homebrew, libksba and RVM )
 (2) create and php web using Phpfog with af cml tool
 (3) writing the gadget.xml
 (4) create an testing app on GREE, and link with gadget.xml in (3)
