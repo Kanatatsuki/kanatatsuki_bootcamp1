@@ -4,6 +4,6 @@
         <Link rel="event.addapp" href="http://example.com/add" method="GET" />
         <Link rel="event.removeapp" href="http://example.com/remove" method="GET" />
     </ModulePrefs>
-    <Content view="mobile" type="url" href="" />
-    <Content view="touch" type="url" href="http://www.google.com" />
+    <Content view="mobile" type="url" href="http://kanatatsuki_bootcamp1.ap01.aws.af.cm/development-template.html" />
+    <Content view="touch" type="url" href="http://kanatatsuki_bootcamp1.ap01.aws.af.cm/development-template.html" />
 </Module>
