@@ -1,0 +1,15 @@
+GREE Bootcamp1 Memo : Kanatatsuki
+
+This this the first time for me touch web service and GREE app.
+The Web set up on Phpfog used a php web template.
+
+The Steps Memo:
+
+(1) infall Ruby for mac( including Xcode CML, homebrew, libksba and RVM )
+(2) create and php web using Phpfog with af cml tool
+(3) writing the gadget.xml
+(4) create an testing app on GREE, and link with gadget.xml in (3)
+(5) test the app in GREE sandbox
+(6) upload the files to Github
+
+From this progress, I got a basic idea of GREE app Development progress, got in to the world of Web Service and Had much fun.
