@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+    <ModulePrefs title="kanatatsuki_test">
+        <Link rel="event.addapp" href="http://example.com/add" method="GET" />
+        <Link rel="event.removeapp" href="http://example.com/remove" method="GET" />
+    </ModulePrefs>
+    <Content view="mobile" type="url" href="" />
+    <Content view="touch" type="url" href="http://www.google.com" />
+</Module>
